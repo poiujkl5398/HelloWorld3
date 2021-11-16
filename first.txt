@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 oh error plz!
+=======
+i love cats
+>>>>>>> 9c092ad1894ab2cdf018c8300bfbae195ee6e96b
